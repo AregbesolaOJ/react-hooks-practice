@@ -131,13 +131,13 @@ form button {
     bottom: -5%;
 }
 .banner-item-content p {
+    z-index: 2;
     position: absolute;
-    padding: 20px;
-    font-size: 14px;
     left: 10;
     bottom: 0;
+    padding: 20px;
+    font-size: 14px;
     color: #eee;
-    z-index: 2;
 }
 @keyframes header {
     from {
